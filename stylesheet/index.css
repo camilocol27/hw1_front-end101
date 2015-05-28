@@ -1,0 +1,130 @@
+@media (max-width: 500px) {
+  .enter {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    margin: 0 auto;
+    position: relative;
+    top: -5px;
+    left: -109px; }
+
+  .enter:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); }
+
+  .world {
+    background: rgba(13, 24, 46, 0.68);
+    width: 100%;
+    margin-top: 112px; }
+
+  .world h2 {
+    font-family: 'Cinzel', serif;
+    width: 400px;
+    margin-left: 40px;
+    font-weight: bold;
+    text-align: justify;
+    color: #fff; }
+
+  footer {
+    background: rgba(13, 24, 46, 0.64);
+    width: 100%;
+    height: 300px;
+    margin-top: 112px; }
+
+  .social {
+    width: 50px;
+    float: left;
+    margin-bottom: 30px;
+    margin-top: 51px;
+    margin-left: 85px; }
+
+  .side-info {
+    width: 200px;
+    padding-top: 0px;
+    position: relative;
+    left: 69px;
+    bottom: -32px;
+    font-weight: bold;
+    font-size: 24px; }
+
+  a {
+    text-decoration: none;
+    color: #fff; }
+
+  .usa {
+    position: relative;
+    left: 64px;
+    bottom: 63px; } }
+.enter {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  margin: 0 auto;
+  position: relative;
+  top: 110px;
+  left: 300px; }
+
+.enter:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: url(http://www.oddsgk.com/wp-content/uploads/2014/01/american-football-field-backgrounds-at-nightfootball-stadium-3d-hd-wallpapers-1920x1200px-indiwall-ftj5pq6h1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+.world {
+  background: rgba(13, 24, 46, 0.68);
+  width: 100%;
+  margin-top: 112px; }
+  .world h2 {
+    font-family: 'Cinzel', serif;
+    width: 800px;
+    margin-left: 25px;
+    font-weight: bold;
+    text-align: justify;
+    color: #fff; }
+
+footer {
+  background: rgba(13, 24, 46, 0.68);
+  width: 100%;
+  height: 162px;
+  margin-top: 112px; }
+
+.social {
+  width: 50px;
+  float: left;
+  margin-bottom: 30px;
+  margin-top: 51px;
+  margin-left: 61px; }
+
+.side-info {
+  width: 200px;
+  padding-left: 153px;
+  padding-top: 0px;
+  position: relative;
+  left: 854px;
+  bottom: 95px;
+  font-weight: bold;
+  font-size: 24px; }
+
+a {
+  text-decoration: none;
+  color: #fff; }
+
+.usa {
+  position: relative;
+  left: 893px;
+  bottom: 186px; }
+
+.error, .seriousError {
+  border: 1px #f00;
+  background-color: #fdd; }
+
+.seriousError {
+  border-width: 3px; }
+
+/*# sourceMappingURL=index.css.map */

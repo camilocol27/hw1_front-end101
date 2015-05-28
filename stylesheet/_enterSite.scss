@@ -1,0 +1,14 @@
+.enter{
+	opacity: 0.4;
+    filter: alpha(opacity=40);
+	margin:0 auto;
+	position:relative;
+	top:110px;
+	left:300px;
+
+
+}
+.enter:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
